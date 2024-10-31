@@ -1,2 +1,2 @@
 # GuessWhoNPB2024v3
-Assumed to be the final version of GWBaseball2024
+The code currently works as intended on Ubuntu/Linux environment only. Windows and MacOS still in progress.
