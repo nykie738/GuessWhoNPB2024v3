@@ -2,7 +2,6 @@
 #include "iostream"
 #include "Game.h"
 
-// - 500 - 535
 sf::VideoMode display = sf::VideoMode::getDesktopMode();
 float dwidth = static_cast<float>(display.width);
 float dheight = static_cast<float>(display.height);
