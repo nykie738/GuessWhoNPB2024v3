@@ -16,5 +16,6 @@ There should be an executable in this directory. As long as it is in the same lo
 player list (players.csv), and the img directory, the code should work as intended. If not, try compiling the codes by pasting <br>
 the lines below into the terminal: <br>
 ```
-g++ GWBaseball2024.cpp Game.cpp Player.cpp PlayerManager.cpp -o main.exe -lsfml-graphics -lsfml-window -lsfml-system
+g++ GWBaseball2024.cpp Game.cpp Player.cpp PlayerManager.cpp -o main -lsfml-graphics -lsfml-window -lsfml-system
+./main
 ```
