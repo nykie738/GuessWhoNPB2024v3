@@ -5,8 +5,9 @@ The instructions and codes to type in terminal are found in the README.md in eac
 
 # Note
 I only made the keyboard input compatible to English so please be careful with the keyboard language settings. <br>
-This is important especially for macOS users. Believe it or not, you have to have the settings on either British English or US Engish <br>
-The images used for is implemented through Depth Anything V2. Their program is actually amazing! I recommend people to try out their work. <br>
+This is important especially for macOS users. Believe it or not, you have to have the settings on either British English or US Engish. <br>
+The images used for is implemented through Depth Anything V2. <br>
+Their program is actually amazing! I recommend people to try out their work. <br>
 
 # Customizing
 If you want to run the guessing game from your own images, you can make that possible by changing the images found in "img" directory <br>
