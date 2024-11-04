@@ -9,5 +9,5 @@ This is important especially for macOS users. Believe it or not, you have to hav
 The images used for is implemented through Depth Anything V2. Their program is actually amazing! I recommend people to try out their work. <br>
 
 # Customizing
-If you want to run the guessing game from your own images, you can make that possible by changing the images found in "img" directory and <br>
-the descriptives found in the "players.csv". 
+If you want to run the guessing game from your own images, you can make that possible by changing the images found in "img" directory <br>
+and the descriptives found in the "players.csv". 
